@@ -2,8 +2,8 @@
     "name": "snowair/phalcon-devtools",
     "require": {
         "snowair/phalcon-debugbar": "^1",
-        "snowair/phalcon-ide": "1.*@dev",
-        "snowair/phalcon-app": "1.*@dev"
+        "snowair/phalcon-ide": "1.*",
+        "snowair/phalcon-app": "1.*"
     },
     "minimum-stability": "dev",
     "authors": [
