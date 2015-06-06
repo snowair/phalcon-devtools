@@ -10,5 +10,6 @@
             "name": "snowair",
             "email": "xcoolcc@gmail.com"
         }
-    ]
+    ],
+   "minimum-stability": "dev"
 }
