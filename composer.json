@@ -5,11 +5,11 @@
         "snowair/phalcon-ide": "dev-master",
         "snowair/phalcon-app": "dev-master"
     },
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "snowair",
             "email": "xcoolcc@gmail.com"
         }
-    ],
-   "minimum-stability": "dev"
+    ]
 }
