@@ -1,3 +1,5 @@
+Depend on your phalcon version, choose one of follow:
+
 ```
 composer require phalcon-devtools:dev-master
 ```
