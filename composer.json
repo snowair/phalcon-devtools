@@ -5,6 +5,7 @@
         "snowair/phalcon-ide": "1.*@dev",
         "snowair/phalcon-app": "1.*@dev"
     },
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "snowair",
