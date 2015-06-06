@@ -2,14 +2,13 @@
   "name": "snowair/phalcon-devtools",
   "require": {
     "snowair/phalcon-debugbar": "^1",
-    "snowair/phalcon-ide": "2.0.x-dev",
-    "snowair/phalcon-app": "dev-master"
+    "snowair/phalcon-ide": "~2.0.0",
+    "snowair/phalcon-app": "~2.0.0"
   },
   "authors": [
     {
       "name": "snowair",
       "email": "xcoolcc@gmail.com"
     }
-  ],
-  "minimum-stability": "dev"
+  ]
 }
